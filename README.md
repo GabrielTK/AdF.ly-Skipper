@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31970721/30454037-c1dae560-994f-11e7-8622-e86d6f24da88.png"/>
+  <a href="https://chrome.google.com/webstore/detail/obnfifcganohemahpomajbhocfkdgmjb" target="_blank"><img src="https://user-images.githubusercontent.com/31970721/30454455-3e889dc2-9951-11e7-8b7a-8c1b3dee01c9.png"/></a>
 </p>
 
 # AdF.ly Skipper
