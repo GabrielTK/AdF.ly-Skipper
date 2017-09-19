@@ -5,6 +5,8 @@
 # AdF.ly Skipper
 This is the source code for the Chrome AdF.ly Skipper extension found [here](https://chrome.google.com/webstore/detail/obnfifcganohemahpomajbhocfkdgmjb).
 
+The Firefox version can be found [here](https://addons.mozilla.org/en-US/firefox/addon/adfly-skipper/).
+
 # Want to help out?
 Report an issue, leave suggestions, or create a pull request!
 
